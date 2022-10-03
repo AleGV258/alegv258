@@ -72,7 +72,7 @@ print(AleGV)
 </div><br>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47e4qyljeprhvjehyw0r19d2mhya8j4pj95bpnbn99&rid=giphy.gif&ct=g" width="50" height="50" style="margin-top: 500px;" /><br>
+  <img src="https://media1.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47d13ihzaocf0jt14lmym9komkxce5e3gi4viucrax&rid=giphy.gif&ct=g" width="50" height="50" style="margin-top: 500px;" /><br>
   <strong>Cybersecurity is a field that I'm very passionate about, it's really interesting, and I'm currently studying on my own in this area....</strong>
 </div><br>
 
