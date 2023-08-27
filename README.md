@@ -29,7 +29,7 @@ SELECT * FROM Developers WHERE Username = 'AleGV258';
 
 | ID | Username |                Name                | Age | Pronouns |  City  |    Languages    |              Degree              |                                                Hobbies                                                |
 |:--:|:--------:|:----------------------------------:|:---:|:--------:|:------:|:---------------:|:--------------------------------:|:-----------------------------------------------------------------------------------------------------:|
-|  1 | AleGV258 | Michell Alejandro<br>García Vargas |  20 |  He/Him  | México | Spanish/English | Studying Software<br>Engineering | Play videogames, cook,<br>listen to music, research more about cybersecurity and learn<br>about it... |
+|  1 | AleGV258 | Michell Alejandro<br>García Vargas |  22 |  He/Him  | México | Spanish/English | Studying Software<br>Engineering | Play videogames, cook,<br>listen to music, research more about cybersecurity and learn<br>about it... |
   
 </div><br>
 
@@ -40,11 +40,12 @@ SELECT * FROM Developers WHERE Username = 'AleGV258';
 ```python
 
 AleGV = {
-    'languages': ['JavaScript', 'Python', 'Java', 'C#', 'Go'],
+    'languages': ['JavaScript', 'Python', 'Java', 'C#', 'PHP'],
     'cloud': ['Azure', 'AWS'],
     'databases': ['Oracle', 'PL-SQL', 'MySQL', 'SQLite'],
     'technologies': ['Node.js', 'Vue.js', 'React', 'React Native', 'Flutter', 'EJS', 'HTML5', 'CSS3'],
-    'areas': ['Cybersecurity', 'Databases', 'Web Developer', 'Mobile Apps', 'Augmented Reality', 'Cloud']
+    'ide_tools': ['Unity', 'Visual Studio Code'],
+    'areas': ['Cybersecurity', 'Databases', 'Web Developer', 'Mobile Apps', 'Augmented Reality', 'Virtual Reality', 'Cloud']
 }
 print(AleGV)
 
