@@ -42,7 +42,7 @@ SELECT * FROM Developers WHERE Username = 'AleGV258';
 AleGV = {
     'languages': ['JavaScript', 'Python', 'Java', 'C#', 'PHP'],
     'cloud': ['Azure', 'AWS'],
-    'databases': ['Oracle', 'PL-SQL', 'MySQL', 'SQLite'],
+    'databases': ['Oracle', 'PL-SQL', 'MySQL', 'SQLite', 'MongoDB'],
     'technologies': ['Node.js', 'Vue.js', 'React', 'React Native', 'Flutter', 'EJS', 'HTML5', 'CSS3'],
     'ide_tools': ['Unity', 'Visual Studio Code'],
     'areas': ['Cybersecurity', 'Databases', 'Web Developer', 'Mobile Apps', 'Augmented Reality', 'Virtual Reality', 'Cloud']
